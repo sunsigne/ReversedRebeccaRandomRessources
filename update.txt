@@ -1,0 +1,2 @@
+VERSION = (early-demo) v.0.4.0.5p
+LINK = https://sunsigne.itch.io/reversedrebecca
